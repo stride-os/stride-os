@@ -6,4 +6,4 @@ I specialize in Web2.5 development, architecting and building the last-mile infr
 
 ⚙️ Core Focus: Web2.5 architecture, bridging TradFi and Web3, and digital currency deployment.
 
-Private contributions not shown.
+I built this: [https://youtu.be/5WgY1BnN5xo](https://youtu.be/5WgY1BnN5xo)
