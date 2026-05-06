@@ -5,3 +5,5 @@ I specialize in Web2.5 development, architecting and building the last-mile infr
 🏢 Currently Building: STRIDE OS. Regulated stablecoin orchestration layer for Commercial Banks.
 
 ⚙️ Core Focus: Web2.5 architecture, bridging TradFi and Web3, and digital currency deployment.
+
+Private contributions not shown.
