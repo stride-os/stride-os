@@ -2,7 +2,6 @@
 
 ### Bridging the gap between TradFi and the Digital Economy.
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Industry](https://img.shields.io/badge/Industry-FinTech%20%2F%20Web3-blue)](https://stride.os)
 [![Status](https://img.shields.io/badge/Status-Building-green)](#)
 
